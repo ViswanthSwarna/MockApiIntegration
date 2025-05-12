@@ -1,4 +1,4 @@
-# 📘 Project Title
+# 📘 MockApiIntegration
 
 ## 📑 Table of Contents
 - [API Endpoints](#api-endpoints)
