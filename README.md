@@ -27,7 +27,7 @@ DELETE /api/products/{id}
 Deletes the product from the mock API and removes its ID from memory.
 
 ### Notes
-Products are only tracked if created via this API.
+Products are only tracked if created via this API.  
 In-memory store is not persistent; restarting the app clears tracked IDs.
 
 # Local Setup 
