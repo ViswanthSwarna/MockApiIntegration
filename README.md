@@ -34,11 +34,11 @@ In-memory store is not persistent; restarting the app clears tracked IDs.
 
 Open Cmd and run following commands
 
-git clone [https://github.com/ViswanthSwarna/MockApiIntegration.git](https://github.com/ViswanthSwarna/MockApiIntegration)
-
-cd MockApiIntegration/MockApiIntegration.API
-
-dotnet run --urls "http://localhost:5050"
+  git clone [https://github.com/ViswanthSwarna/MockApiIntegration.git](https://github.com/ViswanthSwarna/MockApiIntegration)
+  
+  cd MockApiIntegration/MockApiIntegration.API
+  
+  dotnet run --urls "http://localhost:5050"
 
 Finally go to url http://localhost:5050/Swagger and test the endpoints
 
