@@ -32,7 +32,7 @@ In-memory store is not persistent; restarting the app clears tracked IDs.
 
 # Local Setup 
 
-Open Cmd and run following commands
+- Open Cmd and run following commands
 
   git clone [https://github.com/ViswanthSwarna/MockApiIntegration.git](https://github.com/ViswanthSwarna/MockApiIntegration)
   
